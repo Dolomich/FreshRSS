@@ -9,3 +9,4 @@ Ce repo a pour but d'adapter FreshRSS à mon utilisation :
 * [ ] Faire en sorte que par défaut les messages ne soient jamais supprimés avec le temps
 * [ ] Mettre un cookie de connexion illimité ou très long
 * [ ] La barre de recherche cherche aussi les noms des abonnements
+* [ ] Mettre le lien pour les vidéos youtube sur la page de gestion des fluxs : `https://www.youtube.com/feeds/videos.xml?channel_id=`
